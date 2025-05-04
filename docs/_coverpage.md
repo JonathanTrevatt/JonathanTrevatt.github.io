@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](/_media/logo_300.png)
 
 # Welcome!
 Come have a look at some of the things that I have worked on.
@@ -12,4 +12,4 @@ Come have a look at some of the things that I have worked on.
 > A showcase, by Jonathan Trevatt
 
 [GitHub](https://jonathantrevatt.github.io/#/)
-[Get Started](#docsify)
+[Get Started](README.md)
