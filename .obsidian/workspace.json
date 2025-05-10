@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7e5133d2b11eb7f0",
+    "id": "9b62688bacf3c13c",
     "type": "split",
     "children": [
       {
-        "id": "b87b1fcdd5604243",
+        "id": "043b2877f099029d",
         "type": "tabs",
         "children": [
           {
-            "id": "6f42923dd318ce59",
+            "id": "12c2a64a9f0055e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/projects/nasacomp/nasacomp.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "nasacomp"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "331cd5cc88741e01",
+    "id": "c595fb285588ff23",
     "type": "split",
     "children": [
       {
-        "id": "0c9aa223f750ec31",
+        "id": "5b2e79b180d1253e",
         "type": "tabs",
         "children": [
           {
-            "id": "d64012830484039e",
+            "id": "84779648e78b38ef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "db83e7278bb10e41",
+            "id": "d8883278df375240",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "77a4e59424c19405",
+            "id": "e4a8de75aa113315",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b85f84a05e3605e5",
+    "id": "ce4775d4c55de082",
     "type": "split",
     "children": [
       {
-        "id": "910f0014781c60bb",
+        "id": "6cbc70537981151e",
         "type": "tabs",
         "children": [
           {
-            "id": "570f02ef4edb0220",
+            "id": "a1b3b26eb916fa05",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/projects/nasacomp/nasacomp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for nasacomp"
             }
           },
           {
-            "id": "8af98b29781189e1",
+            "id": "60bde13ad7e3b25d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/projects/nasacomp/nasacomp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from nasacomp"
             }
           },
           {
-            "id": "a6874db383d96b88",
+            "id": "2362e01457d5ec80",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,17 +137,18 @@
             }
           },
           {
-            "id": "9529495facbc927f",
+            "id": "834707ae3fb242a6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/projects/nasacomp/nasacomp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of nasacomp"
             }
           }
         ]
@@ -161,9 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f42923dd318ce59",
+  "active": "12c2a64a9f0055e3",
   "lastOpenFiles": [
-    "_sidebar.md.md",
-    "docs/README.md"
+    "docs/projects/README2.md",
+    "docs/projects/README - Copy.md",
+    "docs/projects/other/other.md",
+    "docs/projects/other/New Text Document.txt",
+    "docs/projects/nasacomp/_media/spaceship_simplified.png",
+    "docs/projects/nasacomp/_media/spaceship_detail_top.png",
+    "docs/projects/nasacomp/_media/spaceship_detail_bottom.png",
+    "docs/projects/nasacomp/_media/spaceship_detail_front.png",
+    "docs/projects/nasacomp/_media/spaceship_render.png",
+    "docs/projects/nasacomp/_media/render.png",
+    "docs/projects/nasacomp/_media/Pasted image 20250510095250.png",
+    "docs/projects/nasacomp/_media/Pasted image 20250510095230.png",
+    "docs/projects/nasacomp/_media/Pasted image 20250510095239.png",
+    "docs/projects/nasacomp/_media/Pasted image 20250510095216.png",
+    "docs/projects/nasacomp/_media",
+    "docs/projects/nasacomp/media",
+    "docs/projects/other",
+    "docs/projects/New folder",
+    "docs/projects/CADcourse",
+    "docs/projects/CAD",
+    "docs/projects/microgreens",
+    "docs/projects/landerdrone",
+    "docs/projects/nasacomp/nasacomp.md"
   ]
 }

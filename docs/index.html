@@ -14,18 +14,26 @@
 	<!-- 👇 Configure Docsify first -->
 	<script>
 		window.$docsify = {
-			name: '',
+			name: 'Welcome Splash',
 			repo: '',
 			loadSidebar: true,
-			autoSidebar: true,
-			subMaxLevel: 3,
 			auto2top: true,
-			coverpage: true
+			coverpage: true,
+			onlyCover: true,
+			homepage: 'aboutme/README.md',
+			loadNavbar: true,
+			alias: {
+			'/projects/_sidebar.md': '/projects/_sidebar.md',
+			'/aboutme/_sidebar.md': '/aboutme/_sidebar.md',
+			},
+			//logo: '/_media/logo_300.png'
 		};
 	</script>
 
-	<!-- 👇 Then load Docsify and the plugins -->
+	<!-- Docsify Core -->
 	<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-	<script src="https://cdn.jsdelivr.net/npm/docsify-auto-sidebar/dist/docsify-auto-sidebar.min.js"></script>
+
+	<!-- Auto-sidebar plugin -->
+	<script src="https://cdn.jsdelivr.net/npm/docsify-sidebar@latest/dist/docsify-sidebar.min.js"></script>
 </body>
 </html>
