@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.5
   },
   "right": {
     "id": "ce4775d4c55de082",
@@ -170,28 +170,31 @@
   },
   "active": "12c2a64a9f0055e3",
   "lastOpenFiles": [
+    "docs/projects/other/other.md",
+    "docs/projects/other/_media/flag.png",
+    "docs/projects/other/_media/Screenshot 2023-07-16 131054.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 181604.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 181547.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 181523.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 181318.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 155801.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 142251.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 142243.png",
+    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 142221.png",
+    "docs/projects/CAD/_media/car_wheel",
+    "docs/projects/CAD/_media",
+    "_media/signature.md",
+    "_media",
+    "Pasted image 20250510140715.png.md",
+    "docs/projects/other/_media",
+    "docs/projects/nasacomp/nasacomp.md",
     "docs/projects/README2.md",
     "docs/projects/README - Copy.md",
-    "docs/projects/other/other.md",
     "docs/projects/other/New Text Document.txt",
-    "docs/projects/nasacomp/_media/spaceship_simplified.png",
-    "docs/projects/nasacomp/_media/spaceship_detail_top.png",
-    "docs/projects/nasacomp/_media/spaceship_detail_bottom.png",
-    "docs/projects/nasacomp/_media/spaceship_detail_front.png",
-    "docs/projects/nasacomp/_media/spaceship_render.png",
-    "docs/projects/nasacomp/_media/render.png",
-    "docs/projects/nasacomp/_media/Pasted image 20250510095250.png",
-    "docs/projects/nasacomp/_media/Pasted image 20250510095230.png",
-    "docs/projects/nasacomp/_media/Pasted image 20250510095239.png",
-    "docs/projects/nasacomp/_media/Pasted image 20250510095216.png",
     "docs/projects/nasacomp/_media",
     "docs/projects/nasacomp/media",
     "docs/projects/other",
     "docs/projects/New folder",
-    "docs/projects/CADcourse",
-    "docs/projects/CAD",
-    "docs/projects/microgreens",
-    "docs/projects/landerdrone",
-    "docs/projects/nasacomp/nasacomp.md"
+    "docs/projects/CADcourse"
   ]
 }
