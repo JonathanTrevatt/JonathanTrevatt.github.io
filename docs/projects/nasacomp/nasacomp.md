@@ -4,8 +4,9 @@ There was a NASA competition on freelancer.com to design the next ZGI (zero grav
 The mission will validate the Orion spacecraft and the SLS (space launch system) in preparation for Artemis III, which will see man (and the first woman) return to the moon, and maybe eventually, mars.
 A ZGI is a stuffed toy in the capsule that makes it easy for people observing through cameras to see when the spacecraft is in zero gravity conditions.
 For my entry, instead of hand-sketching a design, I created a full mock-up 3D model using Autodesk fusion with dimensioning and renders.
-
 ### Here is my entry:
+
+![image](./_media/spaceship_render.png)
 
 **Submission Title:** The Orion
  
@@ -24,7 +25,7 @@ The solar panels should bend down at the tips more as the acceleration increases
 The solar panels and the boosters should jiggle about like bobble heads under vibration.
 The entire body would float when under zero gravity conditions, probably bouncing around and rotating.
 
-**An explanation of how your design is meaningful to the Artemis II mission, the Artemis campaign, and/or its significance to exploration and discovery:
+**An explanation of how your design is meaningful to the Artemis II mission, the Artemis campaign, and/or its significance to exploration and discovery:**
 The design, being a depiction of the Orion Spacecraft to be used in the Artemis missions, shares the meaning and significance of the spacecraft and the campaign itself. It will validate the SLS and the Orion craft in preparation for humanity returning to the moon, and eventually even further.
 We shall reclaim space from the robots!
 
@@ -35,7 +36,6 @@ The instructions say that the ZGI must fit within a 6” box. The solar panels a
 
 **Design:**
 
-![image](./_media/spaceship_render.png)
 ![image](./_media/spaceship_detail_bottom.png)
 ![image](./_media/spaceship_detail_front.png)
 ![image](./_media/spaceship_detail_top.png)

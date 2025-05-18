@@ -1,6 +1,7 @@
 - [Home \- Projects](/projects/README.md)
 <!-- [Blacksmithing](/projects/blacksmithing/blacksmithing.md)-->
 - [NASA Freelancer Competition](/projects/nasacomp/nasacomp.md)
+- [Crafts](/projects/crafts/crafts.md)
 <!-- [Automated Robot Exploration](/projects/robotexplorer/robotexplorer.md)-->
 <!-- [Automated Trading System](/projects/autotrader/autotrader.md)-->
 <!-- [Biomimetic Robotic Hand](/projects/robohand/robohand.md)-->
