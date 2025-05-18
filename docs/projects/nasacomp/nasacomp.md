@@ -5,7 +5,7 @@ The mission will validate the Orion spacecraft and the SLS (space launch system)
 A ZGI is a stuffed toy in the capsule that makes it easy for people observing through cameras to see when the spacecraft is in zero gravity conditions.
 For my entry, instead of hand-sketching a design, I created a full mock-up 3D model using Autodesk fusion with dimensioning and renders.
 
-## Here is my entry:
+### Here is my entry:
 
 **Submission Title:** The Orion
  
