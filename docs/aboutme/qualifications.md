@@ -79,3 +79,26 @@ I.e., qualifications that I am currently working on, or is on my to-do list.
     - **ROS** “Python 3 for Robotics”, issued by “TheConstruct”. (100% complete, pending final assessment)
     - **ROS** “C++ for Robotics”, issued by “TheConstruct”. (100% complete, pending final assessment)
     
+## Equipment proficiencies
+I have experience using a wide range of equipment. Here is a list of some of them.
+- Proficiency in the use of hand tools and electric tools, using them for:
+	- Construction, building an office during my time as a labourer
+	- Industrial machine maintenance and repair
+	- Fine skills, blacksmithing, leatherworking, and other crafts
+	- Building robots for various projects
+- Wood lathes, drill presses, grinders, cutting tools, bandsaws, guillotines, etc.
+- Basic welding
+- Use an maintenance of CNC-like machines. E.g.,:
+	- Speedy400 (SP400) Laser Engraver
+	- Speedy500 (SP500) Laser Engraver
+	- Gweike Fiber Laser Cutting Machines
+	- Techjjet-X2 Abrasive Waterjet cutters
+	- Cocoon Create Touch 3D printer (FDM)
+	- Creatbot F160 3D printer (FDM)
+	- Creality K1 Max 3D printer (FDM)
+	- 
+- 3D scanners
+	- Einscan Pro HD
+	- Other
+	- ![scanner](./_media/scanner.jpg)
+	

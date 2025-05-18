@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/projects/nasacomp/nasacomp.md",
+                "file": "docs/aboutme/qualifications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nasacomp"
+              "title": "qualifications"
             }
           }
         ]
@@ -170,7 +170,11 @@
   },
   "active": "12c2a64a9f0055e3",
   "lastOpenFiles": [
+    "docs/projects/nasacomp/nasacomp.md",
+    "docs/aboutme/qualifications.md",
     "docs/projects/other/other.md",
+    "docs/aboutme/_media/scanner.jpg",
+    "docs/aboutme/_media",
     "docs/projects/other/_media/flag.png",
     "docs/projects/other/_media/Screenshot 2023-07-16 131054.png",
     "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 181604.png",
@@ -180,21 +184,18 @@
     "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 155801.png",
     "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 142251.png",
     "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 142243.png",
-    "docs/projects/CAD/_media/car_wheel/Screenshot 2023-03-24 142221.png",
     "docs/projects/CAD/_media/car_wheel",
     "docs/projects/CAD/_media",
     "_media/signature.md",
     "_media",
     "Pasted image 20250510140715.png.md",
     "docs/projects/other/_media",
-    "docs/projects/nasacomp/nasacomp.md",
     "docs/projects/README2.md",
     "docs/projects/README - Copy.md",
     "docs/projects/other/New Text Document.txt",
     "docs/projects/nasacomp/_media",
     "docs/projects/nasacomp/media",
     "docs/projects/other",
-    "docs/projects/New folder",
-    "docs/projects/CADcourse"
+    "docs/projects/New folder"
   ]
 }
