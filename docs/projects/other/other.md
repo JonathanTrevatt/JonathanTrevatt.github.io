@@ -2,11 +2,25 @@
 
 Projects that are not significant enough to have their own section.
 
+## Blacksmithing
+
+Pictures coming soon.
+
+## Leather smithing
+
+I spent some time involved in a LARP (live action role play) group. During this time, I learned how to do some leather work and I crafted a set of tree-themed armour.
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+	<img src="projects/other/_media/suit-removebg-preview.png" alt="full leather armour" width="150" height="150">
+	<img src="projects/other/_media/suit_close.jpg" alt="leather armour detail shot" width="150" height="150">
+	<img src="projects/other/_media/suit_closer.jpg" alt="leather armour more detail shot" width="150" height="150">
+</div>
+
 ## Signature Seal
 I first created a design for a wax seal, and got that manufactured.
 <div style="display: flex; gap: 10px; justify-content: center;">
-	<img src="projects/other/_media/wax_seal_design.png" alt="Wax Seal" width="150" height="150">
-	<img src="projects/other/_media/wax_seal_stamp.png" alt="Wax Seal" width="150" height="150">
+	<img src="projects/other/_media/wax_seal_design.png" alt="Wax Seal design" width="150" height="150">
+	<img src="projects/other/_media/wax_seal_stamp.png" alt="Wax Seal stamp image" width="150" height="150">
 	<img src="projects/other/_media/wax_seal.png" alt="Wax Seal" width="150" height="150">
 </div>
 
@@ -17,6 +31,12 @@ Later, after I started blacksmithing, I realised that the features of the wax se
 </div>
 
 This is designed to have the black parts act as a mask for a chemical etching process.
+
+## Art
+
+### The Coming Comet
+![comingcomet](./_media/comingcomet.jpg)
+
 
 ## Flag creation
 I wanted to create a design for a more unified and inclusive flag for all Australians, and I thought this design looked much cooler than our current design.
