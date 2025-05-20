@@ -1,6 +1,6 @@
 ## Blacksmithing
 
-I have been doing some blacksmithing. Pictures coming soon.
+Pictures coming soon.
 ## Leather smithing
 
 I spent some time involved in a LARP (live action role play) group. During this time, I learned how to do some leather work and I crafted a set of tree-themed armour.

@@ -168,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c2a64a9f0055e3",
+  "active": "84779648e78b38ef",
   "lastOpenFiles": [
+    "docs/projects/thesis/thesis.md",
+    "docs/projects/thesis/thesis.m.txt",
+    "docs/projects/thesis/New Text Document.txt",
+    "docs/projects/thesis",
+    "docs/projects/microgreens",
     "docs/projects/other/other.md",
     "docs/projects/nasacomp/nasacomp.md",
     "docs/projects/crafts/Crafts.md",
@@ -196,11 +201,7 @@
     "_media/signature.md",
     "_media",
     "Pasted image 20250510140715.png.md",
-    "docs/projects/other/_media",
     "docs/projects/README2.md",
-    "docs/projects/README - Copy.md",
-    "docs/projects/other/New Text Document.txt",
-    "docs/projects/nasacomp/_media",
-    "docs/projects/nasacomp/media"
+    "docs/projects/README - Copy.md"
   ]
 }
