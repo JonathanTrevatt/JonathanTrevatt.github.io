@@ -8,7 +8,24 @@ Cleaver:
 <div style="display: flex; gap: 10px; justify-content: center;">
 	<img src="projects/other/_media/knife.jpg" alt="cleaver" width="150" height="150">
 </div>
+- To create the cleaver, I used a cut-off from an old leaf spring from a car. 
+- I repeatedly brought the metal to "cherry hot" in a forge and hammered it into shape - applying a taper towards the edge, creating a curve, and strightening the blade.
+- With the metal hot, I punched a hole near the front of the spine to allow the cleaver to be hung up.
+- I performed a heat treatment called annealing, where the piece is held at about 900°C for long enough to allow recrystalisation into austenite, then cooled very slowly (~20°C/hr) to transform it into course pealite, which is soft and ductile. This makes it soft enough to easily machine.
+- The metal now softened, I drilled out holes in the tang for securing the handle, and used a belt sander and file to refine the shape and taper. 
+- I then performed more heat treatments: quenching (very fast cooling in water) to form martensite, which is very hard and strong (but brittle), then tempering to make it tougher and less brittle.
+- The surface of the cleaver was peened with a hammer to again increase the hardness (and provide some character to the piece), but just on the surface.
+- I secured some well seasoned Australian Ironbark wood to the tang using bolt through the drilled holes and used the belt sander to rough out the shape of the handle.
+- After replacing the bolts with cut brass rods, I peened the surfaces to roll them over and secure the handles. Then the shape of the handles was further refined.
+- The remaining steps to complete will be to treat the handle with oil, apply my makers mark (likely with electrolysis), clean the blade, and grind in the final edge profile.
+
 Crowbar: (Picture coming soon)
+- Created from a strip of steel sheet.
+- I cut a nail pulling groove in the hot metal using a hammer and blacksmithing chisel.
+- I curled one end of the sheet into a circular section with an appropriate size and length for a handle of a hand tool, with the intention that it can be extended with a pipe for more leverage as needed.
+- I hammered in the curve for the crowbar.
+- I applied a heat treatment to make it strong and springy.
+- I possible improvement could be to use a torch to heat and selectively quench just the edge to make it harder. This is a selective heat treatment method similar to that used to create chisels.
 
 ## Leather smithing
 
