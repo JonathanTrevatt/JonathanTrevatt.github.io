@@ -11,14 +11,10 @@
             "id": "12c2a64a9f0055e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/projects/crafts/Crafts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Crafts"
+              "title": "New tab"
             }
           }
         ]
