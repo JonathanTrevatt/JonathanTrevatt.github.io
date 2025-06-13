@@ -4,7 +4,11 @@ Projects that are not significant enough to have their own section.
 
 ## Blacksmithing
 
-Pictures coming soon.
+Cleaver:
+<div style="display: flex; gap: 10px; justify-content: center;">
+	<img src="projects/other/_media/knife.jpg" alt="cleaver" width="150" height="150">
+</div>
+Crowbar: (Picture coming soon)
 
 ## Leather smithing
 
