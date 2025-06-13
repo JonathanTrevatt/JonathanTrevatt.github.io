@@ -4,7 +4,7 @@ Projects that are not significant enough to have their own section.
 
 ## Blacksmithing
 
-***Cleaver:***
+**Cleaver:**
 <div style="display: flex; gap: 10px; justify-content: center;">
 	<img src="projects/other/_media/knife.jpg" alt="cleaver" width="400" height="200">
 </div>
@@ -20,7 +20,7 @@ Projects that are not significant enough to have their own section.
 - After replacing the bolts with cut brass rods, I peened the surfaces to roll them over and secure the handles. Then the shape of the handles was further refined.
 - The remaining steps to complete will be to treat the handle with oil, apply my makers mark (likely with electrolysis), clean the blade, and grind in the final edge profile.
 
-***Crowbar: (Picture coming soon)***
+**Crowbar: (Picture coming soon)**
 
 - Created from a strip of steel sheet.
 - I cut a nail pulling groove in the hot metal using a hammer and blacksmithing chisel.
