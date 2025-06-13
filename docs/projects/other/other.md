@@ -6,7 +6,7 @@ Projects that are not significant enough to have their own section.
 
 Cleaver:
 <div style="display: flex; gap: 10px; justify-content: center;">
-	<img src="projects/other/_media/knife.jpg" alt="cleaver" width="150" height="150">
+	<img src="projects/other/_media/knife.jpg" alt="cleaver" width="400" height="200">
 </div>
 - To create the cleaver, I used a cut-off from an old leaf spring from a car. 
 - I repeatedly brought the metal to "cherry hot" in a forge and hammered it into shape - applying a taper towards the edge, creating a curve, and strightening the blade.
@@ -32,9 +32,9 @@ Crowbar: (Picture coming soon)
 I spent some time involved in a LARP (live action role play) group. During this time, I learned how to do some leather work and I crafted a set of tree-themed armour.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-	<img src="projects/other/_media/suit-removebg-preview.png" alt="full leather armour" width="150" height="150">
-	<img src="projects/other/_media/suit_close.jpg" alt="leather armour detail shot" width="150" height="150">
-	<img src="projects/other/_media/suit_closer.jpg" alt="leather armour more detail shot" width="150" height="150">
+	<img src="projects/other/_media/suit-removebg-preview.png" alt="full leather armour" width="300" height="300">
+	<img src="projects/other/_media/suit_close.jpg" alt="leather armour detail shot" width="250" height="300">
+	<img src="projects/other/_media/suit_closer.jpg" alt="leather armour more detail shot" width="250" height="300">
 </div>
 
 ## Signature Seal
