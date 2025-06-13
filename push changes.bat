@@ -1,4 +1,4 @@
 git add .
 git commit -m "Update Docsify content"
-git push origin main
+git push
 pause
