@@ -4,10 +4,11 @@ Projects that are not significant enough to have their own section.
 
 ## Blacksmithing
 
-Cleaver:
+***Cleaver:***
 <div style="display: flex; gap: 10px; justify-content: center;">
 	<img src="projects/other/_media/knife.jpg" alt="cleaver" width="400" height="200">
 </div>
+
 - To create the cleaver, I used a cut-off from an old leaf spring from a car. 
 - I repeatedly brought the metal to "cherry hot" in a forge and hammered it into shape - applying a taper towards the edge, creating a curve, and strightening the blade.
 - With the metal hot, I punched a hole near the front of the spine to allow the cleaver to be hung up.
@@ -19,7 +20,8 @@ Cleaver:
 - After replacing the bolts with cut brass rods, I peened the surfaces to roll them over and secure the handles. Then the shape of the handles was further refined.
 - The remaining steps to complete will be to treat the handle with oil, apply my makers mark (likely with electrolysis), clean the blade, and grind in the final edge profile.
 
-Crowbar: (Picture coming soon)
+***Crowbar: (Picture coming soon)***
+
 - Created from a strip of steel sheet.
 - I cut a nail pulling groove in the hot metal using a hammer and blacksmithing chisel.
 - I curled one end of the sheet into a circular section with an appropriate size and length for a handle of a hand tool, with the intention that it can be extended with a pipe for more leverage as needed.
